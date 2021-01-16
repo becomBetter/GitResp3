@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/mall-api/mallhhhhhh/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-api/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-cart-api/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-cms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-common-base/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-dictionary-api/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-manager-portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-manager-web/mall-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-oms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-pay-api/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-pms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-service-application/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-service-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-service-cms/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-service-dictionary/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-service-oms/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-service-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-service-pms/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-service-sms/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-service-ums/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-service/mall-application/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-sms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-ums-api/pom.xml" />
+        <option value="$PROJECT_DIR$/mallgg/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

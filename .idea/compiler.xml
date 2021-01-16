@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mall-oms-api" />
+        <module name="mall-pms-api" />
+        <module name="mall-cart-api" />
+        <module name="mall-manager-job" />
+        <module name="mall-dictionary" />
+        <module name="mall-portal-web" />
+        <module name="mall-dictionary-api" />
+        <module name="mall-ums-api" />
+        <module name="mall-common-util" />
+        <module name="mall-job" />
+        <module name="mall-cms" />
+        <module name="mall-sms-api" />
+        <module name="mall-pay-api" />
+        <module name="mall-cms-api" />
+        <module name="mall-pay" />
+        <module name="mall-common-base" />
+        <module name="mall-oms" />
+        <module name="mall-pms" />
+        <module name="mall-cart" />
+        <module name="mall-sms" />
+        <module name="mall-ums" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mall-api" target="1.5" />
+      <module name="mall-manager-job" target="1.5" />
+      <module name="mall-manager-portal-web" target="1.5" />
+      <module name="mall-service-application" target="1.5" />
+      <module name="mall-service-application-web" target="1.5" />
+      <module name="mall-service-cart" target="1.5" />
+      <module name="mall-service-cms" target="1.5" />
+      <module name="mall-service-dictionary" target="1.5" />
+      <module name="mall-service-oms" target="1.5" />
+      <module name="mall-service-pay" target="1.5" />
+      <module name="mall-service-pms" target="1.5" />
+      <module name="mall-service-sms" target="1.5" />
+      <module name="mall-service-ums" target="1.5" />
+      <module name="mallgg" target="1.5" />
+      <module name="mallhhhhhh" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
